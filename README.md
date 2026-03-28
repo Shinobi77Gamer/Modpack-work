@@ -1,5 +1,5 @@
 # Modpack-work
-This pack is a private thing for a few friends of mine; The log is as follows and I'll have the zip of the pack for Curseforge on Mediafire or in the Releases.
+This pack is a private thing for a few friends of mine; The log is as follows and the pack can be found at (without quotes) "https://www.mediafire.com/file/rgzywo1cs229smx/Pack+test.zip/file"
 
 The Curseforge log:
 [08:53:25] [main/INFO]:Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
